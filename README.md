@@ -14,3 +14,5 @@
 - Redis (Caches my db products)
 - Celery (For sending email)
 - Stripe (Pay for products)
+- isort
+- flake8

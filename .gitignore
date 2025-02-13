@@ -1,0 +1,7 @@
+.idea
+.env
+.flake8
+/products/migrations/
+/store/migrations/
+/orders/migrations/
+/user/migrations/

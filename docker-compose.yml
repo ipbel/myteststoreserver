@@ -22,8 +22,3 @@ services:
       - db
     environment:
       DEBUG: "False"
-      DATABASE_NAME: "store_db"
-      DATABASE_USER: "store_admin"
-      DATABASE_PASSWORD: "store_admin"
-      DATABASE_HOST: "postgres"
-      DATABASE_PORT: 5432
